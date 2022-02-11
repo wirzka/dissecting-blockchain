@@ -1,3 +1,4 @@
+This is a list of resources that helped me understanding the blockchain outta here.
 # Dissecting blockchain technologies
 ## Basic concepts
 ## Blockchain evolution
