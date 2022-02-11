@@ -1,6 +1,12 @@
 This is a list of resources that helped me understanding the blockchain outta here.
 # Dissecting blockchain technologies
+
+
 ## Basic concepts
+### Decentralization
+### 
+### Hashing
+### Consensus methods
 ## Blockchain evolution
 ## Blockchain 1.0
 ### Bitcoin
@@ -15,3 +21,10 @@ This is a list of resources that helped me understanding the blockchain outta he
 ### Ethereum
 ## Blockchain 3.0
 
+## TO-DOs
+- [ ] DLT 
+- [ ] game theory
+- [ ] monetary policy
+- [ ] cryptography
+- [ ] distributed system and dbs
+- [ ] DLT -> Blockchain -> Permissionless || Permissioned
