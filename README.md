@@ -4,9 +4,10 @@ This is a list of resources that helped me understanding the blockchain outta he
 
 ## Basic concepts
 ### Decentralization
-### 
-### Hashing
-### Consensus methods
+### Network
+### Cryptography
+#### Hashing
+### Consensus mechanisms
 ## Blockchain evolution
 ## Blockchain 1.0
 ### Bitcoin
@@ -27,4 +28,6 @@ This is a list of resources that helped me understanding the blockchain outta he
 - [ ] monetary policy
 - [ ] cryptography
 - [ ] distributed system and dbs
+- [ ] bizantine
+- [ ] P2P network
 - [ ] DLT -> Blockchain -> Permissionless || Permissioned
