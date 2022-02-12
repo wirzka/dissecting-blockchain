@@ -30,4 +30,5 @@ This is a list of resources that are helping me understanding the blockchain out
 - [ ] distributed system and dbs
 - [ ] bizantine
 - [ ] P2P network
+- [ ] Nodes
 - [ ] DLT -> Blockchain -> Permissionless || Permissioned
