@@ -1,4 +1,4 @@
-This is a list of resources that helped me understanding the blockchain outta here.
+This is a list of resources that are helping me understanding the blockchain outta here.
 # Dissecting blockchain technologies
 
 
