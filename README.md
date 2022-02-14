@@ -1,13 +1,17 @@
-This is a list of resources that are helping me understanding the blockchain outta here.
+This is a list of resources that helped me understanding the blockchain outta here.
 # Dissecting blockchain technologies
 
 
 ## Basic concepts
 ### Decentralization
-### Network
-### Cryptography
-#### Hashing
-### Consensus mechanisms
+#### Websites, Blogs & Co
+- [Decentralization on Wikipedia](https://en.wikipedia.org/wiki/Decentralization)
+- [Redecentralize.org](https://redecentralize.org/)
+#### Youtube & Cons
+- [Centralization vs Decentralization in organizations](https://www.youtube.com/watch?v=jviFsd4hhfE)
+- 
+### Hashing
+### Consensus methods
 ## Blockchain evolution
 ## Blockchain 1.0
 ### Bitcoin
@@ -19,7 +23,6 @@ This is a list of resources that are helping me understanding the blockchain out
 #### Article
 #### Research papers
 ##  Blockchain 2.0
-### Ethereum
 ## Blockchain 3.0
 
 ## TO-DOs
@@ -28,7 +31,4 @@ This is a list of resources that are helping me understanding the blockchain out
 - [ ] monetary policy
 - [ ] cryptography
 - [ ] distributed system and dbs
-- [ ] bizantine
-- [ ] P2P network
-- [ ] Nodes
 - [ ] DLT -> Blockchain -> Permissionless || Permissioned
