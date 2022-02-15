@@ -6,6 +6,7 @@ In this section, I put resources that fall under a broader spectrum, so they're 
 #### Websites, Blogs & Co
 - [Decentralization on Wikipedia](https://en.wikipedia.org/wiki/Decentralization)
 - [Redecentralize.org](https://redecentralize.org/)
+
 #### Youtube & Conferences
 - [Centralization vs Decentralization in organizations](https://www.youtube.com/watch?v=jviFsd4hhfE)
 - [Decentralization example w/ Retail](https://www.youtube.com/watch?v=AMRmDqiWvVk)
@@ -14,23 +15,24 @@ In this section, I put resources that fall under a broader spectrum, so they're 
 - [Blockchain: Decentralization is Central | Stuart Haber | TEDxBeaconStreet](https://www.youtube.com/watch?v=AmQyJoTdnwo)
 ### Hashing
 ### Consensus methods
+## Uncategorised resources
+- [Moxie: My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [Andé Saltz: Some people want to run their own servers (A reply to Moxie's impressions)](https://staltz.com/some-people-want-to-run-their-own-servers.html)
+- [ICANNs vs Blockchains - Paul Frazee - Medium](https://paulfrazee.medium.com/icanns-vs-blockchains-3ec91d1d9feb)
 ## Blockchain evolution
-## Blockchain 1.0
-### Bitcoin
+## Bitcoin
 #### Official documentation
 #### Youtube & Conferences
 #### Blog posts
 #### Article
 #### Research papers
-## Blockchain 2.0
-### Ethereum
+## Ethereum
 #### Official documentation
 #### Youtube & Conferences
 - [Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://www.youtube.com/watch?v=WSN5BaCzsbo)
 #### Blog posts
 #### Article
 #### Research papers
-## Blockchain 3.0
 ---
 ## TO-DOs
 Stuff I want to add here:
