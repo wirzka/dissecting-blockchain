@@ -1,5 +1,5 @@
 # Dissecting blockchain technologies
-***This is a work in progress. I'm focusing most of my energies on this topics, so I'm adding/deleting stuff to this repo quite frequently. Even the repo's structure is not finished yet and probably it'll never be.***
+***This is a work in progress. I'm focusing most of my energies on these topics, so I'm adding/deleting stuff to this repo quite frequently. Even the repo's structure is not finished yet and probably it'll never be.***
 ## Basic concepts
 In this section, I put resources that fall under a broader spectrum, so they're not verticalized into blockchain but they're somewhat related to them or viceversa. 
 ### Decentralization
@@ -17,14 +17,19 @@ In this section, I put resources that fall under a broader spectrum, so they're 
 ## Blockchain evolution
 ## Blockchain 1.0
 ### Bitcoin
-#### Why Bitcoin
-#### What is it used for
 #### Official documentation
-#### Youtube videos
+#### Youtube & Conferences
 #### Blog posts
 #### Article
 #### Research papers
 ## Blockchain 2.0
+### Ethereum
+#### Official documentation
+#### Youtube & Conferences
+- [Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://www.youtube.com/watch?v=WSN5BaCzsbo)
+#### Blog posts
+#### Article
+#### Research papers
 ## Blockchain 3.0
 ---
 ## TO-DOs
