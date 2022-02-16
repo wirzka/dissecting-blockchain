@@ -14,13 +14,18 @@ In this section, I put resources that fall under a broader spectrum, so they're 
 - [Advantages of Decentralization in business](https://www.youtube.com/watch?v=SNUgrDOQrnw)
 - [The four pillars of a decentralized society | Johann Gevers | TEDxZug](https://www.youtube.com/watch?v=8oeiOeDq_Nc)
 - [Blockchain: Decentralization is Central | Stuart Haber | TEDxBeaconStreet](https://www.youtube.com/watch?v=AmQyJoTdnwo)
+- [The future will be decentralized | Charles Hoskinson | TEDxBermuda](https://www.youtube.com/watch?v=97ufCT6lQcY)
 ### Hashing
 ### Consensus methods
+### Game theory
+### Monetary policy
+### Byzantine fault
 ## Cultural background
 > "You have to know the past to understand the present."
 > -Carl Sagan
 
 I strongly believe in the above words. Under this cathegory, I'm going to add resources that could help clarifying how we got where we are right now.
+
 #### Websites, Blogs & Co
 - [The Success of the Web: A Triumph of the Amateurs](https://cacm.acm.org/magazines/2019/8/238332-the-success-of-the-web/fulltext)
 ## Uncategorised resources
@@ -41,12 +46,3 @@ I strongly believe in the above words. Under this cathegory, I'm going to add re
 #### Blog posts
 #### Article
 #### Research papers
----
-## TO-DOs
-Stuff I want to add here:
-- [ ] DLT 
-- [ ] game theory
-- [ ] monetary policy
-- [ ] cryptography
-- [ ] distributed system and dbs
-- [ ] DLT -> Blockchain -> Permissionless || Permissioned
