@@ -4,3 +4,5 @@
 *.json
 .obsidian/core-plugins.json
 .obsidian/workspace
+.obsidian/core-plugins.json
+.obsidian/workspace
